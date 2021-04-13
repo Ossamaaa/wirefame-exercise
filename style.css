@@ -82,9 +82,10 @@ padding: 10px;
 #parg{
    position: relative;
     float:right;
-width: 400px;
+width: 410px;
 right: 190px;
 overflow: scroll;
+bottom:  5px;
 }
 
 
@@ -102,7 +103,7 @@ footer{
     position: relative;
     background-color: black;
     color: rgb(255, 255, 255);
-top: 300px;
-left: 50px;
-padding : 10px 20px 10px 20px;
+top: 370px;
+left: 30px;
+padding : 7px 30px 7px 30px;
 }
